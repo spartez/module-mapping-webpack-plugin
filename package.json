@@ -1,0 +1,25 @@
+{
+  "name": "@spartez/module-mapping-webpack-plugin",
+  "version": "0.0.1",
+  "description": "Webpack plugin for mapping modules to different files",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "mapping",
+    "modules"
+  ],
+  "author": "Spartez",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "babel-eslint": "^7.0.0",
+    "eslint": "^3.8.1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.spartez.com/repository/npm-private"
+  }
+}
