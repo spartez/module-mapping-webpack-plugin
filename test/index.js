@@ -21,7 +21,7 @@ function handleRequest(fn, request) {
     }));
 }
 
-test.cb(t => {
+test.cb('should map foo.js to bar.js', t => {
     const plugin = ModuleMappingPlugin({
         './foo.js': './bar.js'
     });
