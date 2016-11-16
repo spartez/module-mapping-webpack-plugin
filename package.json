@@ -1,6 +1,6 @@
 {
-  "name": "@spartez/module-mapping-webpack-plugin",
-  "version": "0.0.1",
+  "name": "module-mapping-webpack-plugin",
+  "version": "1.0.0",
   "description": "Webpack plugin for mapping modules to different files",
   "main": "index.js",
   "scripts": {
@@ -21,9 +21,6 @@
     "fs-extra": "^0.30.0",
     "raw-loader": "^0.5.1",
     "webpack": "^1.13.2"
-  },
-  "publishConfig": {
-    "registry": "https://npm.spartez.com/repository/npm-private"
   },
   "ava": {
     "files": [
