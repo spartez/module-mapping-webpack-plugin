@@ -1,6 +1,6 @@
 {
   "name": "module-mapping-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Webpack plugin for mapping modules to different files",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "modules"
   ],
   "author": "Spartez",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "ava": "^0.16.0",
     "babel-eslint": "^7.0.0",
