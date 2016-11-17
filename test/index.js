@@ -48,7 +48,7 @@ test.cb('should map foo.js to bar.js', t => {
     const compiler = mock((name, fn) => {
         t.is(name, 'normal-module-factory');
         fn(moduleFactory);
-    })
+    });
 
     plugin.apply(compiler);
 });
