@@ -1,4 +1,4 @@
-# Module Mapping Webpack Plugin
+# Module Mapping Webpack Plugin [![Build Status](https://travis-ci.org/spartez/module-mapping-webpack-plugin.svg?branch=master)](http://travis-ci.org/spartez/module-mapping-webpack-plugin)
 
 This is a [webpack](https://webpack.github.io) plugin for mapping modules onto different files.
 
