@@ -1,6 +1,6 @@
 # Module Mapping Webpack Plugin
 
-This is a [webpack](webpack.github.io) plugin for mapping modules onto different files.
+This is a [webpack](https://webpack.github.io) plugin for mapping modules onto different files.
 
 ## Installation
 
