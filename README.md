@@ -41,4 +41,4 @@ foo(); // → 'Hello Spartez!';
 
 The MIT License
 
-Copyright :copyright: 2016 Spartez, https://spartez.com
+Copyright :copyright: 2017 Spartez, https://spartez.com
